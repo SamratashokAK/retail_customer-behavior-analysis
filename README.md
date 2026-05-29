@@ -113,5 +113,5 @@ Built an **interactive dashboard** with 6 visuals including:
 ## 👤 Author
 
 **Kazama** — Aspiring Data Analyst
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/samrat-ashok-data-engineer)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/SamratashokAK)
